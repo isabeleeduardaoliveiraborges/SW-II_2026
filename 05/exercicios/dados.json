@@ -1,0 +1,22 @@
+ {
+       "hallowen":  [
+        {
+            "id": 1,
+            "nome":"joao silva",
+            "preço":"4,00",
+            "quant":25
+ } ,
+ {
+        "id": 2,
+        "nome":"amao silva",
+        "preço":"300.00",
+        "quant":30
+ },
+ {
+         "id": 3,
+        "nome":"alao silva",
+        "preço":"15.00",
+        "quant":28
+ }
+]
+}
