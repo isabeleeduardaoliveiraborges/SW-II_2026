@@ -1,0 +1,17 @@
+[
+    {
+        "produto": "Teclado",
+        "pre\u00e7o": 150,
+        "estoque": 20
+    },
+    {
+        "produto": "Mouse",
+        "pre\u00e7o": 50,
+        "estoque": 50
+    },
+    {
+        "produto": "Monitor",
+        "pre\u00e7o": 1000,
+        "estoque": 10
+    }
+]
